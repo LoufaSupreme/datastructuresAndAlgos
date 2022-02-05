@@ -93,6 +93,7 @@ const obj1 = {
       inner: 2,
       otherObj: {
         superInner: 2,
+        superInnerOdd: 1,
         notANumber: true,
         alsoNotANumber: "yup"
       }
